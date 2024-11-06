@@ -1,0 +1,118 @@
+body {
+    background-color: black;
+    color: white;
+    background-image: url(https://t4.ftcdn.net/jpg/04/53/63/07/360_F_453630787_9nrQ94UP2fzgpy4HD6TPjdlMPuUtzyc9.jpg);
+}
+.navbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-image: url(https://t4.ftcdn.net/jpg/05/71/83/47/360_F_571834789_ujYbUnH190iUokdDhZq7GXeTBRgqYVwa.jpg);
+}
+.navbar-right {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    text-align: center;
+
+}
+.navbar-middle {
+    align-items: center;
+    text-align: center;
+    font-family: "Rajdhani", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    padding-top: 50px;
+}
+.a-element {
+    
+    margin: 5px;
+    color: rgb(88, 219, 88);
+    padding: 10px;
+    border: 2px solid white;
+}
+.home {
+    font-family: "Rajdhani", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    display: flex;
+    flex-direction: row;
+    background-image: url(https://t4.ftcdn.net/jpg/05/71/83/47/360_F_571834789_ujYbUnH190iUokdDhZq7GXeTBRgqYVwa.jpg);
+}
+.home-left {
+    width: 50%;
+    align-items: center;
+}
+.home-right {
+    width: 50%;
+    align-items: center;
+}
+.img-mani {
+    height: 560px;
+    width: 600px;
+    align-items: center;
+    margin-left: 90px;
+    margin-top: 60px;
+    border-radius: 20px;
+}
+.service {
+    align-items: center;
+    text-align: center;
+
+}
+.service-cont {
+    padding: 10px;
+    display: flex;
+    flex-direction: row';
+
+}
+.service-sub-cont {
+    border: 2px solid rgb(89, 203, 89);
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    height: 20vh;
+    font-family: "Rajdhani", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    width: 33%;
+
+}
+.project {
+    text-align: center;
+    
+}
+.sub-project {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.logo-img {
+    height: 8vh;
+}
+.sub-project-cont {
+    border: 2px solid rgb(89, 203, 89);
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    height: 30vh;
+    font-family: "Rajdhani", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    width: 33%;
+}
+.contact {
+    text-align: center;
+}
+.contact-cont {
+    padding: 20px;
+   border: 2px solid black;
+   margin: 70px;
+}
+.contact-type {
+    display: flex;
+    flex-direction: row;
+    padding: 50px ;
+   
+}
+
